@@ -5,7 +5,7 @@ Write about the goal of the code
 ## What does the code do? 
 What does the code do
 
-## How does the code work
+## How does the code work?
 + Explain how the code works
 + Explain how to run the code
 ## Documentation
